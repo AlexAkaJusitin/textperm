@@ -24,3 +24,9 @@
 ::-webkit-scrollbar-thumb:hover {
   background: rgb(255, 255, 255);
 }
+#copyRight {
+  color: white;
+  position: fixed;
+  left: 10px;
+  bottom: 0;
+}
